@@ -1,0 +1,9 @@
+{
+	"name": "adf-nik",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e33b0b1a-ab2a-43e5-96be-3cbfe3538de8",
+		"tenantId": "d3796f82-5487-4466-9f7e-fc1f00266256"
+	}
+}
